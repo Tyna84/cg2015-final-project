@@ -4,16 +4,16 @@
 1.1 Struttura della sala
 --------------------------
 
-![Sala di Terapia Intensiva Neonatale](images/ImgNICU_42.jpg)
+![Sala di Terapia Intensiva Neonatale](ImgNICU_42.jpg)
 
-![Sala di Terapia Intensiva Neonatale](images/ImgNICU_12.jpg)
+![Sala di Terapia Intensiva Neonatale](ImgNICU_12.jpg)
 
 La sala di **Terapia Intensiva Neonatale** in questione è quella della Clinica Mangiagalli di Milano. 
 La sala ospita 10 postazioni di degenza ed è dotata di mezzi diagnostici e terapeutici più all'avanguardia che permettono un'assistenza adeguata per ogni neonato, ad esempio attrezzature per la ventilazione.
 
-![Attrezzature per la migliore assistenza al neonato](images/ImgNICU_32.jpg)
+![Attrezzature per la migliore assistenza al neonato](ImgNICU_32.jpg)
 
-![Sistema di monitoraggio](images/ImgNICU_22.jpg)
+![Sistema di monitoraggio](ImgNICU_22.jpg)
 
 Nella sala, lo stato dei neonati ricoverati viene costantemente controllato dall'Unità Operativa, grazie ad una sofisticata cartella clinica informatizzata e a dei moderni sistemi di monitoraggio. 
 
